@@ -308,6 +308,7 @@ a {
     width: 100%;
     aspect-ratio: 1;
     transition: all 1s ease-out;
+    cursor: pointer;
 }
 
 .gallery__image:hover {
@@ -341,6 +342,12 @@ a {
     width: 48px;
     height: 48px;
     margin: 0 10px;
+    transition: transform 0.6s;
+    cursor: pointer;
+}
+
+.contact__icon>img:hover {
+    transform: scale(1.1);
 }
 
 /* Footer */
