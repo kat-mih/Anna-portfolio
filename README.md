@@ -1,9 +1,9 @@
-Ann's portfolio
+# Ann's portfolio
 
-Technologies
+## Technologies
 
 - HTML
 - CSS
 - JS
 
-[Live Demo](#)
+:star: [Live Demo](https://anna-kapitaniuk.netlify.app/) :star:
